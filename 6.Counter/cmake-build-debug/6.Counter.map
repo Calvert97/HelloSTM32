@@ -1,0 +1,1445 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+                              CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj (__aeabi_fmul)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+                              CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj (__aeabi_fcmplt)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                              CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj (__aeabi_f2uiz)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+                              CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj (__errno)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+                              d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                              d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                              d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                              d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                              d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                              d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                              d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                              d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x00000000       0x74 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x00000000        0x8 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .text.OLED_Display_On
+                0x00000000       0x16 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .text.OLED_Display_Off
+                0x00000000       0x16 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .text.OLED_On  0x00000000       0x3a CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .text.OLED_SHowfloat
+                0x00000000      0x130 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .text.OLED_ShowString
+                0x00000000       0x36 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .text.OLED_ShowCHinese
+                0x00000000       0x50 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .rodata.Hzk    0x00000000      0x140 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text.HAL_I2C_MspDeInit
+                0x00000000       0x38 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x00000000       0x20 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._sbrk    0x00000000       0x3c CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .bss.heap_end.6023
+                0x00000000        0x4 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000     0x112a CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x31e CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x00000000      0x436 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xb0 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x00000000       0xa0 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x4d0 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x877 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x1a8 CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0x94 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x20 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x60 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x20 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x00000000       0x2c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x00000000       0x6c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0x68 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x52 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x00000000       0x76 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x00000000       0x46 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0x98 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x22c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x00000000      0x144 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x46 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x5c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000        0x6 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x00000000      0x937 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x00000000      0x262 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_loc     0x00000000      0x7d1 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_aranges
+                0x00000000       0x80 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_ranges  0x00000000       0x70 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x00000000      0xac8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_str     0x00000000      0x72b CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_frame   0x00000000      0x148 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xd8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xa8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0x80 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000        0xe CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x24 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x1c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x14 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x14 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x6a0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x20d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_loc     0x00000000      0x4ee CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x66e CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x504 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_frame   0x00000000       0xfc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x1c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x00000000       0x70 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x68 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000      0x154 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x34 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x14 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x28 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x14 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000        0x8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x68 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0x9c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x20 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x76c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x26c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_loc     0x00000000      0x3a3 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x78 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x7e4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x64b CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x134 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x24 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x18 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0x68 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x48 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_ProgramData
+                0x00000000       0x40 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBErase
+                0x00000000       0x50 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x00000000       0xc0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x00000000       0xc8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0x9c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x1c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetUserData
+                0x00000000       0x24 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x00000000       0x24 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0xa4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x60 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0xbce CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x260 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_loc     0x00000000      0x87f CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0x88 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0x985 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x761 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x194 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000       0xfc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xe CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_WritePin
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2e CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x1c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_ConfigEventout
+                0x00000000       0x14 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_EnableEventout
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_DisableEventout
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_info    0x00000000      0x248 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_abbrev  0x00000000      0x123 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_loc     0x00000000       0x25 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_ranges  0x00000000       0x20 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_line    0x00000000      0x249 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_str     0x00000000      0x385 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_frame   0x00000000       0x40 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Flush_DR
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Master_SB
+                0x00000000       0xa8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Master_ADD10
+                0x00000000       0x2a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Master_ADDR
+                0x00000000      0x216 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_SlaveTransmit_BTF
+                0x00000000       0x20 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_SlaveReceive_BTF
+                0x00000000       0x20 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnSTOPRequestThroughIT
+                0x00000000       0x48 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_ConvertOtherXferOptions
+                0x00000000       0x1e CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterRequestWrite
+                0x00000000       0xb4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterRequestRead
+                0x00000000      0x120 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_RequestMemoryRead
+                0x00000000      0x154 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnRXNEFlagUntilTimeout
+                0x00000000       0x78 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnSTOPFlagUntilTimeout
+                0x00000000       0x5c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MspInit
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MspDeInit
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_DeInit
+                0x00000000       0x32 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit
+                0x00000000      0x178 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive
+                0x00000000      0x354 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit
+                0x00000000      0x198 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive
+                0x00000000      0x174 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit_IT
+                0x00000000       0xd4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive_IT
+                0x00000000       0xdc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit_IT
+                0x00000000       0x8c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive_IT
+                0x00000000       0x8c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Transmit_DMA
+                0x00000000      0x180 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Receive_DMA
+                0x00000000      0x180 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Transmit_DMA
+                0x00000000      0x100 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Receive_DMA
+                0x00000000      0x100 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read
+                0x00000000      0x344 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Write_IT
+                0x00000000       0xe0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read_IT
+                0x00000000       0xec CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Write_DMA
+                0x00000000      0x1c8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Mem_Read_DMA
+                0x00000000      0x208 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_IsDeviceReady
+                0x00000000      0x194 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Transmit_IT
+                0x00000000       0xfc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Transmit_DMA
+                0x00000000      0x1c4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Receive_IT
+                0x00000000      0x148 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Seq_Receive_DMA
+                0x00000000      0x238 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Transmit_IT
+                0x00000000       0x8e CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Transmit_DMA
+                0x00000000      0x19c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Receive_IT
+                0x00000000       0x8e CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Slave_Seq_Receive_DMA
+                0x00000000      0x19c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_EnableListen_IT
+                0x00000000       0x3e CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_DisableListen_IT
+                0x00000000       0x42 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MasterTxCpltCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MasterRxCpltCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_SlaveTxCpltCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_SlaveTransmit_TXE
+                0x00000000       0x4c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_SlaveRxCpltCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_SlaveReceive_RXNE
+                0x00000000       0x4c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_AddrCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Slave_ADDR
+                0x00000000       0x5a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_ListenCpltCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Slave_AF
+                0x00000000       0xa0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MemTxCpltCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterTransmit_BTF
+                0x00000000       0x9e CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MemoryTransmit_TXE_BTF
+                0x00000000       0xc4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterTransmit_TXE
+                0x00000000       0xd0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_MemRxCpltCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterReceive_BTF
+                0x00000000      0x128 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_ErrorCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_DMAError
+                0x00000000       0x3a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_DMAXferCplt
+                0x00000000      0x122 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_MasterReceive_RXNE
+                0x00000000       0xf6 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_AbortCpltCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_DMAAbort
+                0x00000000       0xe4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_ITError
+                0x00000000      0x178 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_Master_Abort_IT
+                0x00000000       0x64 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_Slave_STOPF
+                0x00000000      0x18c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_EV_IRQHandler
+                0x00000000      0x1a0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_ER_IRQHandler
+                0x00000000       0xce CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetState
+                0x00000000        0x6 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetMode
+                0x00000000        0x6 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.HAL_I2C_GetError
+                0x00000000        0x4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.PWR_OverloadWfe
+                0x00000000        0x6 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x18 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x84 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x18 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x18 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x20 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x48 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x20 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x20 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x77b CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x204 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_loc     0x00000000      0x142 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_ranges  0x00000000       0x98 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x4a7 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x5b7 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x140 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000       0xf4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x4c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x20 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xb4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x3c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x24 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x114 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x2c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000       0xd8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata.aPLLMULFactorTable.5690
+                0x00000000       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata.aPredivFactorTable.5691
+                0x00000000        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_info    0x00000000      0x503 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00000000      0x1f8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_loc     0x00000000      0x43d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000000       0x38 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000      0x4eb CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000      0x4ef CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000000       0x5c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x00000000      0x174 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x00000000       0x97 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x00000000      0x193 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_str     0x00000000      0x2e5 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x00000000      0x174 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00000000       0x97 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x00000000      0x193 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000      0x2e8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/System/sys.c.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/System/sys.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/System/sys.c.obj
+ .debug_info    0x00000000      0x174 CMakeFiles/6.Counter.elf.dir/System/sys.c.obj
+ .debug_abbrev  0x00000000       0x97 CMakeFiles/6.Counter.elf.dir/System/sys.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/6.Counter.elf.dir/System/sys.c.obj
+ .debug_line    0x00000000      0x193 CMakeFiles/6.Counter.elf.dir/System/sys.c.obj
+ .debug_str     0x00000000      0x2bd CMakeFiles/6.Counter.elf.dir/System/sys.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/6.Counter.elf.dir/System/sys.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/6.Counter.elf.dir/System/sys.c.obj
+ .text          0x00000000       0x14 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+ .data          0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+ .text          0x00000000      0x168 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00000000       0x24 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .text          0x00000000       0xec d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_frame   0x00000000       0xc8 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .text          0x00000000       0x40 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x00000000       0x24 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xc0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x00000000        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+FLASH            0x08000000         0x00010000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+LOAD d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/System/sys.c.obj
+LOAD CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+START GROUP
+LOAD d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a
+LOAD d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+END GROUP
+LOAD d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+LOAD d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+                0x20005000                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.text           0x0800010c     0x17f0
+                0x0800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x40 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.text*)
+ .text.EXTI_Init
+                0x0800014c       0x6c CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+                0x0800014c                EXTI_Init
+ .text.EXTI15_10_IRQHandler
+                0x080001b8       0x24 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+                0x080001b8                EXTI15_10_IRQHandler
+ .text.EXTI1_IRQHandler
+                0x080001dc       0x28 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+                0x080001dc                EXTI1_IRQHandler
+ .text.Counter_Get
+                0x08000204        0xc CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+                0x08000204                Counter_Get
+ .text.LED_Init
+                0x08000210       0x3c CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+                0x08000210                LED_Init
+ .text.WriteCmd
+                0x0800024c       0x38 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x0800024c                WriteCmd
+ .text.OLED_WR_CMD
+                0x08000284       0x2c CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x08000284                OLED_WR_CMD
+ .text.OLED_WR_DATA
+                0x080002b0       0x2c CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x080002b0                OLED_WR_DATA
+ .text.OLED_Init
+                0x080002dc        0xe CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x080002dc                OLED_Init
+ .text.OLED_Clear
+                0x080002ea       0x3a CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x080002ea                OLED_Clear
+ .text.OLED_Set_Pos
+                0x08000324       0x22 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x08000324                OLED_Set_Pos
+ .text.oled_pow
+                0x08000346       0x14 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x08000346                oled_pow
+ *fill*         0x0800035a        0x2 
+ .text.OLED_ShowChar
+                0x0800035c       0x90 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x0800035c                OLED_ShowChar
+ .text.OLED_ShowNum
+                0x080003ec       0x94 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x080003ec                OLED_ShowNum
+ .text.MX_GPIO_Init
+                0x08000480       0x68 CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .text.Error_Handler
+                0x080004e8        0x4 CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+                0x080004e8                Error_Handler
+ .text.MX_I2C1_Init
+                0x080004ec       0x38 CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .text.SystemClock_Config
+                0x08000524       0x52 CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+                0x08000524                SystemClock_Config
+ .text.main     0x08000576       0x3a CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+                0x08000576                main
+ .text.HAL_MspInit
+                0x080005b0       0x44 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x080005b0                HAL_MspInit
+ .text.HAL_I2C_MspInit
+                0x080005f4       0x64 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x080005f4                HAL_I2C_MspInit
+ .text.NMI_Handler
+                0x08000658        0x2 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000658                NMI_Handler
+ .text.HardFault_Handler
+                0x0800065a        0x2 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800065a                HardFault_Handler
+ .text.MemManage_Handler
+                0x0800065c        0x2 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800065c                MemManage_Handler
+ .text.BusFault_Handler
+                0x0800065e        0x2 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x0800065e                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000660        0x2 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000660                UsageFault_Handler
+ .text.SVC_Handler
+                0x08000662        0x2 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000662                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000664        0x2 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000664                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000666        0x2 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000666                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000668        0x8 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000668                SysTick_Handler
+ .text.SystemInit
+                0x08000670        0x2 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08000670                SystemInit
+ *fill*         0x08000672        0x2 
+ .text.HAL_InitTick
+                0x08000674       0x4c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000674                HAL_InitTick
+ .text.HAL_Init
+                0x080006c0       0x24 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080006c0                HAL_Init
+ .text.HAL_IncTick
+                0x080006e4       0x18 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080006e4                HAL_IncTick
+ .text.HAL_GetTick
+                0x080006fc        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080006fc                HAL_GetTick
+ .text.HAL_Delay
+                0x08000708       0x28 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000708                HAL_Delay
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08000730       0x24 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000730                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08000754       0x68 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000754                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x080007bc       0x1c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080007bc                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x080007d8       0x2c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x080007d8                HAL_SYSTICK_Config
+ .text.HAL_GPIO_Init
+                0x08000804      0x220 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000804                HAL_GPIO_Init
+ .text.HAL_GPIO_TogglePin
+                0x08000a24       0x12 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000a24                HAL_GPIO_TogglePin
+ .text.I2C_IsAcknowledgeFailed
+                0x08000a36       0x32 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnFlagUntilTimeout
+                0x08000a68       0xb2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnMasterAddressFlagUntilTimeout
+                0x08000b1a       0xd6 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnTXEFlagUntilTimeout
+                0x08000bf0       0x5e CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ *fill*         0x08000c4e        0x2 
+ .text.I2C_RequestMemoryWrite
+                0x08000c50       0xd8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .text.I2C_WaitOnBTFFlagUntilTimeout
+                0x08000d28       0x5e CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ *fill*         0x08000d86        0x2 
+ .text.HAL_I2C_Init
+                0x08000d88      0x1bc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x08000d88                HAL_I2C_Init
+ .text.HAL_I2C_Mem_Write
+                0x08000f44      0x164 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                0x08000f44                HAL_I2C_Mem_Write
+ .text.RCC_Delay
+                0x080010a8       0x2c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_OscConfig
+                0x080010d4      0x410 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080010d4                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x080014e4       0x54 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080014e4                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x08001538      0x16c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001538                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetHCLKFreq
+                0x080016a4        0xc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080016a4                HAL_RCC_GetHCLKFreq
+ .text.HAL_RCC_GetPCLK1Freq
+                0x080016b0       0x20 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080016b0                HAL_RCC_GetPCLK1Freq
+ .text.Reset_Handler
+                0x080016d0       0x48 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x080016d0                Reset_Handler
+ .text.Default_Handler
+                0x08001718        0x2 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+                0x08001718                RTC_Alarm_IRQHandler
+                0x08001718                EXTI2_IRQHandler
+                0x08001718                TIM1_CC_IRQHandler
+                0x08001718                PVD_IRQHandler
+                0x08001718                EXTI3_IRQHandler
+                0x08001718                EXTI0_IRQHandler
+                0x08001718                I2C2_EV_IRQHandler
+                0x08001718                ADC1_2_IRQHandler
+                0x08001718                SPI1_IRQHandler
+                0x08001718                TAMPER_IRQHandler
+                0x08001718                DMA1_Channel4_IRQHandler
+                0x08001718                USART3_IRQHandler
+                0x08001718                RTC_IRQHandler
+                0x08001718                DMA1_Channel7_IRQHandler
+                0x08001718                CAN1_RX1_IRQHandler
+                0x08001718                TIM4_IRQHandler
+                0x08001718                I2C1_EV_IRQHandler
+                0x08001718                DMA1_Channel6_IRQHandler
+                0x08001718                TIM3_IRQHandler
+                0x08001718                RCC_IRQHandler
+                0x08001718                TIM1_TRG_COM_IRQHandler
+                0x08001718                DMA1_Channel1_IRQHandler
+                0x08001718                Default_Handler
+                0x08001718                EXTI9_5_IRQHandler
+                0x08001718                SPI2_IRQHandler
+                0x08001718                DMA1_Channel5_IRQHandler
+                0x08001718                EXTI4_IRQHandler
+                0x08001718                USB_LP_CAN1_RX0_IRQHandler
+                0x08001718                USB_HP_CAN1_TX_IRQHandler
+                0x08001718                DMA1_Channel3_IRQHandler
+                0x08001718                TIM1_UP_IRQHandler
+                0x08001718                WWDG_IRQHandler
+                0x08001718                TIM2_IRQHandler
+                0x08001718                TIM1_BRK_IRQHandler
+                0x08001718                USART2_IRQHandler
+                0x08001718                I2C2_ER_IRQHandler
+                0x08001718                DMA1_Channel2_IRQHandler
+                0x08001718                CAN1_SCE_IRQHandler
+                0x08001718                FLASH_IRQHandler
+                0x08001718                USART1_IRQHandler
+                0x08001718                I2C1_ER_IRQHandler
+                0x08001718                USBWakeUp_IRQHandler
+ *fill*         0x0800171a        0x2 
+ .text.__libc_init_array
+                0x0800171c       0x48 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x0800171c                __libc_init_array
+ .text.memset   0x08001764       0xa0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                0x08001764                memset
+ .text.startup.register_fini
+                0x08001804       0x14 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08001818        0xc d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x08001818                atexit
+ .text.__libc_fini_array
+                0x08001824       0x2c d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x08001824                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08001850        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08001850                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08001854        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08001854                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08001858       0x8c d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x08001858                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x080018e4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080018e4        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080018e4        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x080018e4        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x080018e4                _init
+ .init          0x080018e8        0x8 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x080018f0        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x080018f0                _fini
+ .fini          0x080018f4        0x8 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+                0x080018fc                . = ALIGN (0x4)
+                0x080018fc                _etext = .
+
+.vfp11_veneer   0x080018fc        0x0
+ .vfp11_veneer  0x080018fc        0x0 linker stubs
+
+.v4_bx          0x080018fc        0x0
+ .v4_bx         0x080018fc        0x0 linker stubs
+
+.iplt           0x080018fc        0x0
+ .iplt          0x080018fc        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x080018fc      0x838
+                0x080018fc                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.F6x8   0x080018fc      0x228 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x080018fc                F6x8
+ .rodata.F8X16  0x08001b24      0x5e0 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x08001b24                F8X16
+ .rodata.AHBPrescTable
+                0x08002104       0x10 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08002104                AHBPrescTable
+ .rodata.APBPrescTable
+                0x08002114        0x8 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08002114                APBPrescTable
+ .rodata.aPLLMULFactorTable.5755
+                0x0800211c       0x10 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .rodata.aPredivFactorTable.5756
+                0x0800212c        0x2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *fill*         0x0800212e        0x2 
+ .rodata._global_impure_ptr
+                0x08002130        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x08002130                _global_impure_ptr
+                0x08002134                . = ALIGN (0x4)
+
+.rel.dyn        0x08002134        0x0
+ .rel.iplt      0x08002134        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08002134        0x0
+                0x08002134                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08002134                __exidx_end = .
+
+.preinit_array  0x08002134        0x0
+                0x08002134                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08002134                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08002134        0x8
+                0x08002134                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08002134        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08002138        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x0800213c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0800213c        0x4
+                0x0800213c                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0800213c        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x08002140                PROVIDE (__fini_array_end = .)
+                0x08002140                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x454 load address 0x08002140
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.CMD_Data
+                0x20000000       0x1b CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                0x20000000                CMD_Data
+ *fill*         0x2000001b        0x1 
+ .data.SystemCoreClock
+                0x2000001c        0x4 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x2000001c                SystemCoreClock
+ .data.uwTickFreq
+                0x20000020        0x1 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000020                uwTickFreq
+ *fill*         0x20000021        0x3 
+ .data.uwTickPrio
+                0x20000024        0x4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000024                uwTickPrio
+ .data.impure_data
+                0x20000028      0x428 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000450        0x4 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000450                __atexit_recursive_mutex
+                0x20000454                . = ALIGN (0x4)
+                0x20000454                _edata = .
+
+.igot.plt       0x20000454        0x0 load address 0x08002594
+ .igot.plt      0x20000454        0x0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x20000454                . = ALIGN (0x4)
+
+.bss            0x20000454       0x9c load address 0x08002594
+                0x20000454                _sbss = .
+                0x20000454                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000454       0x1c d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.Counter_Num
+                0x20000470        0x2 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+                0x20000470                Counter_Num
+ *fill*         0x20000472        0x2 
+ .bss.hi2c1     0x20000474       0x54 CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+                0x20000474                hi2c1
+ .bss.uwTick    0x200004c8        0x4 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x200004c8                uwTick
+ *(COMMON)
+ COMMON         0x200004cc       0x21 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x200004cc                __lock___atexit_recursive_mutex
+                0x200004d0                __lock___arc4random_mutex
+                0x200004d4                __lock___env_recursive_mutex
+                0x200004d8                __lock___sinit_recursive_mutex
+                0x200004dc                __lock___malloc_recursive_mutex
+                0x200004e0                __lock___at_quick_exit_mutex
+                0x200004e4                __lock___dd_hash_mutex
+                0x200004e8                __lock___tz_mutex
+                0x200004ec                __lock___sfp_recursive_mutex
+                0x200004f0                . = ALIGN (0x4)
+ *fill*         0x200004ed        0x3 
+                0x200004f0                _ebss = .
+                0x200004f0                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200004f0      0x600 load address 0x08002594
+                0x200004f0                . = ALIGN (0x8)
+                0x200004f0                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x200006f0                . = (. + _Min_Heap_Size)
+ *fill*         0x200004f0      0x200 
+                0x20000af0                . = (. + _Min_Stack_Size)
+ *fill*         0x200006f0      0x400 
+                0x20000af0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2d CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+ .ARM.attributes
+                0x00000077       0x2d CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+ .ARM.attributes
+                0x000000a4       0x2d CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .ARM.attributes
+                0x000000d1       0x2d CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x000000fe       0x2d CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .ARM.attributes
+                0x0000012b       0x2d CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .ARM.attributes
+                0x00000158       0x2d CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x00000185       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .ARM.attributes
+                0x000001b2       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x000001df       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x0000020c       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .ARM.attributes
+                0x00000239       0x2d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x00000266       0x21 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+ .ARM.attributes
+                0x00000287       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000002b4       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000002e1       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000030e       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000033b       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000368       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000395       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000003c2       0x2d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000003ef       0x1d d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(6.Counter.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x9940
+ .debug_info    0x00000000      0x648 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+ .debug_info    0x00000648      0x363 CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+ .debug_info    0x000009ab     0x10c6 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .debug_info    0x00001a71      0xbe2 CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00002653      0x9c9 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x0000301c      0x239 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x00003255      0x2c9 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x0000351e      0x831 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x00003d4f      0xe46 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x00004b95      0x75b CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x000052f0     0x3b7e CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_info    0x00008e6e      0xab0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x0000991e       0x22 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_abbrev   0x00000000     0x1918
+ .debug_abbrev  0x00000000      0x1f8 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+ .debug_abbrev  0x000001f8      0x16e CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+ .debug_abbrev  0x00000366      0x257 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .debug_abbrev  0x000005bd      0x24d CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000080a      0x1dd CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x000009e7       0xef CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x00000ad6      0x151 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x00000c27      0x219 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00000e40      0x367 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x000011a7      0x213 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x000013ba      0x2bf CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_abbrev  0x00001679      0x28d CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x00001906       0x12 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_aranges  0x00000000      0x708
+ .debug_aranges
+                0x00000000       0x38 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+ .debug_aranges
+                0x00000038       0x20 CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+ .debug_aranges
+                0x00000058       0x90 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .debug_aranges
+                0x000000e8       0x40 CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x00000128       0x30 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_aranges
+                0x00000158       0x60 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_aranges
+                0x000001b8       0x28 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_aranges
+                0x000001e0       0xe0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_aranges
+                0x000002c0       0x90 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000350       0x58 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_aranges
+                0x000003a8      0x2a8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_aranges
+                0x00000650       0x90 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_aranges
+                0x000006e0       0x28 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_ranges   0x00000000      0x6f0
+ .debug_ranges  0x00000000       0x28 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+ .debug_ranges  0x00000028       0x10 CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+ .debug_ranges  0x00000038       0x98 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .debug_ranges  0x000000d0       0x30 CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x00000100       0x20 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_ranges  0x00000120       0x50 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_ranges  0x00000170       0x18 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_ranges  0x00000188       0xd0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x00000258       0xe0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x00000338       0x48 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x00000380      0x2b0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_ranges  0x00000630       0xa0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_ranges  0x000006d0       0x20 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_line     0x00000000     0x8f86
+ .debug_line    0x00000000      0x2e5 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+ .debug_line    0x000002e5      0x223 CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+ .debug_line    0x00000508      0x855 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .debug_line    0x00000d5d      0x46c CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x000011c9      0x2ee CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x000014b7      0x2d4 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x0000178b      0x2bc CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x00001a47      0x54c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x00001f93      0x6a2 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x00002635      0x651 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00002c86     0x560e CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_line    0x00008294      0xc5b CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x00008eef       0x97 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+
+.debug_str      0x00000000     0x22b5
+ .debug_str     0x00000000      0x67c CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+                                0x6e3 (size before relaxing)
+ .debug_str     0x0000067c       0x25 CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+                                0x370 (size before relaxing)
+ .debug_str     0x000006a1      0x565 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+                                0x855 (size before relaxing)
+ .debug_str     0x00000c06      0x20c CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+                                0x9e0 (size before relaxing)
+ .debug_str     0x00000e12       0xa9 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                                0x83f (size before relaxing)
+ .debug_str     0x00000ebb       0xcf CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                                0x364 (size before relaxing)
+ .debug_str     0x00000f8a       0x6a CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                                0x344 (size before relaxing)
+ .debug_str     0x00000ff4      0x29b CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                0x8c1 (size before relaxing)
+ .debug_str     0x0000128f      0x3c0 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                                0x9dd (size before relaxing)
+ .debug_str     0x0000164f      0x12b CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                                0x52e (size before relaxing)
+ .debug_str     0x0000177a      0x908 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+                               0x10d1 (size before relaxing)
+ .debug_str     0x00002082      0x1ec CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                                0x710 (size before relaxing)
+ .debug_str     0x0000226e       0x47 CMakeFiles/6.Counter.elf.dir/startup/startup_stm32f103xb.s.obj
+                                 0x74 (size before relaxing)
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+
+.debug_frame    0x00000000     0x1504
+ .debug_frame   0x00000000       0x6c CMakeFiles/6.Counter.elf.dir/Bsp/exti.c.obj
+ .debug_frame   0x0000006c       0x2c CMakeFiles/6.Counter.elf.dir/Bsp/led.c.obj
+ .debug_frame   0x00000098      0x1c4 CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .debug_frame   0x0000025c       0x8c CMakeFiles/6.Counter.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x000002e8       0x60 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x00000348       0xa8 CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x000003f0       0x30 CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x00000420      0x1cc CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x000005ec      0x12c CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x00000718       0xe8 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x00000800      0x988 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_frame   0x00001188      0x184 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x0000130c       0x2c d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x00001338       0x38 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00001370       0x5c d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000013cc       0x20 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x000013ec       0x34 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x00001420       0xb0 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x000014d0       0x34 d:/gun-tools-arm-embedded/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+
+.debug_loc      0x00000000     0x5d6f
+ .debug_loc     0x00000000      0x81c CMakeFiles/6.Counter.elf.dir/Bsp/oled.c.obj
+ .debug_loc     0x0000081c       0x7c CMakeFiles/6.Counter.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_loc     0x00000898       0xff CMakeFiles/6.Counter.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_loc     0x00000997      0x141 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_loc     0x00000ad8      0x71f CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_loc     0x000011f7      0x468 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_loc     0x0000165f     0x4129 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_loc     0x00005788      0x5e7 CMakeFiles/6.Counter.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
