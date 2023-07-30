@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="10.CapInput" targetName="10.CapInput.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20da6e3b-c2db-421b-90cb-acf01a4ce101" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/.cmake/api/v1/reply/cache-v2-63a8fc6cbf9e68b9e26f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ae9308cfd35492765a9b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/.cmake/api/v1/reply/index-2023-05-16T13-26-02-0606.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/1.LED.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../1.LED/cmake-build-debug/1.LED.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/1.LED.elf" beforeDir="false" afterPath="$PROJECT_DIR$/../1.LED/cmake-build-debug/1.LED.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/1.LED.hex" beforeDir="false" afterPath="$PROJECT_DIR$/../1.LED/cmake-build-debug/1.LED.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/1.LED.map" beforeDir="false" afterPath="$PROJECT_DIR$/../1.LED/cmake-build-debug/1.LED.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../1.LED/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/CMakeFiles/1.LED.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../1.LED/cmake-build-debug/CMakeFiles/1.LED.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../1.LED/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../1.LED/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.LED/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../1.LED/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.OLED/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5.OLED/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.OLED/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3b616fc6ca78ff514da2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.OLED/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-aaec06079d1ba367e071.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.OLED/cmake-build-debug/.cmake/api/v1/reply/index-2023-05-29T10-36-08-0090.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.OLED/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../5.OLED/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.OLED/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../5.OLED/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.OLED/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../5.OLED/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.Counter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6.Counter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4f707aba74a1cbe9e97f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-26d62653993970ac7735.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-16T02-25-09-0287.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../6.Counter/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.BasicTim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7.BasicTim/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.BasicTim/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-16T08-26-30-0737.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.PWM_Output/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9.PWM_Output/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9.PWM_Output/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../9.PWM_Output/Core/Src/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.5" />
+  </component>
+  <component name="ProjectId" id="2THagGcnncQhhTjZD1K8RTwD3KR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "E:/11.HelloSTM32/10.CapInput",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\11.HelloSTM32\10.CapInput" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenOCD Download &amp; Run.10.CapInput.elf">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="10.CapInput.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="10.CapInput" TARGET_NAME="10.CapInput.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="10.CapInput" RUN_TARGET_NAME="10.CapInput.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="10.CapInput.elf" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="10.CapInput" TARGET_NAME="10.CapInput.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="10.CapInput" RUN_TARGET_NAME="10.CapInput.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="E:\11.HelloSTM32\10.CapInput\config\st_link.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.10.CapInput.elf" />
+      <item itemvalue="OpenOCD Download &amp; Run.10.CapInput.elf" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20da6e3b-c2db-421b-90cb-acf01a4ce101" name="Changes" comment="" />
+      <created>1690702569436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690702569436</updated>
+      <workItem from="1690702599106" duration="3262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
